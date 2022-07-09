@@ -1,0 +1,5 @@
+C:\Users\Senanur Kotankiran\Desktop\KampIntro\KampIntro\CoffeeProjectDemo\obj\Debug\netcoreapp3.1\CoffeeSimulationProject.csproj.AssemblyReference.cache
+C:\Users\Senanur Kotankiran\Desktop\KampIntro\KampIntro\CoffeeProjectDemo\obj\Debug\netcoreapp3.1\CoffeeSimulationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senanur Kotankiran\Desktop\KampIntro\KampIntro\CoffeeProjectDemo\obj\Debug\netcoreapp3.1\CoffeeSimulationProject.AssemblyInfoInputs.cache
+C:\Users\Senanur Kotankiran\Desktop\KampIntro\KampIntro\CoffeeProjectDemo\obj\Debug\netcoreapp3.1\CoffeeSimulationProject.AssemblyInfo.cs
+C:\Users\Senanur Kotankiran\Desktop\KampIntro\KampIntro\CoffeeProjectDemo\obj\Debug\netcoreapp3.1\CoffeeSimulationProject.csproj.CoreCompileInputs.cache
